@@ -1,6 +1,6 @@
 ---
 name: lumi-chief-engineering
-description: Chief-engineering operating discipline for Lumi. Use for repo reorientation, planning and scoping work, delegation, evaluating worker or reviewer findings, deciding whether more tests or reviews are justified, qualifying slices, closing phases, judging what is verified or not, handling debt, UI/UX/design/motion adjudication, and answering owner go/no-go or “what next” questions. Enforces evidence-first decisions, candid pushback, proportional engineering, current-source research when freshness matters, scope discipline, safe Git/host-security practices, independent review where warranted, and clean phase exits. Not for hands-on coding or purely mechanical visual execution inside an already-scoped task, and not for non-Lumi projects.
+description: Use for Lumi Chief Engineer planning, repo reorientation, delegation, review triage, verification and qualification decisions, phase closure, owner go-no-go questions, and design or motion adjudication. Enforce evidence-first judgment, proportional engineering, current-source checks when freshness matters, safe Git and host-security practices, scope discipline, independent review where warranted, and clean phase exits.
 ---
 
 # Lumi Chief Engineering
